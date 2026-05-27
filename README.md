@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a73e8,50:7c4dff,100:e91e63&text=LiuTianBa7&fontAlignY=35&fontColor=ffffff&animation=fadeIn">
 </p>
 
-<h1 align="center">👋 Hi, I'm 留白</h1>
+<h1 align="center">👋 Hi, I'm Liutianba7</h1>
 
 <p align="center">
   <b>AI Application Engineer · Full-Stack Developer · Open-Source Enthusiast</b>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://liutianba7.github.io">
-    <img src="https://img.shields.io/badge/Blog-留白的技术笔记-7c4dff?style=for-the-badge&logo=jekyll&logoColor=white">
+    <img src="https://img.shields.io/badge/Blog-技术笔记-7c4dff?style=for-the-badge&logo=jekyll&logoColor=white">
   </a>
   <a href="mailto:liutianba7@163.com">
     <img src="https://img.shields.io/badge/Email-liutianba7@163.com-e91e63?style=for-the-badge&logo=gmail&logoColor=white">
@@ -73,10 +73,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=liutianba7&show_icons=true&theme=gradient&include_all_commits=true&count_private=true">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liutianba7&layout=compact&theme=radical&hide=html,css">
-</p>
+</p> -->
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=liutianba7&theme=react-dark&bg_color=0d1117&hide_border=true&area=true">
